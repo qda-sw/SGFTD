@@ -1,5 +1,4 @@
 # Chapter 1
-## 생성
 ```sh
 git init
 
